@@ -39,9 +39,13 @@ This reflects a simplified ITIL v4-inspired decision flow.
 
 
 User: John
+
 Issue: Outlook crash
+
 Working: Teams still works
+
 Not Working: Outlook
+
 Affected Users: 3
 
 Classification: Problem
